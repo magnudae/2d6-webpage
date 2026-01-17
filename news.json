@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Velkommen til 2026!",
+            "date": "2026-01-01",
+            "content": "Godt nytt år til alle medlemmer! Vi ser frem til et fantastisk år med mye spilling, turneringer og sosialt samvær. Husk at vi har planlagt flere store arrangementer i år - følg med på kalenderen!",
+            "author": "Styret"
+        },
+        {
+            "id": 2,
+            "title": "Ny terrengsamling komplett",
+            "date": "2025-12-15",
+            "content": "Takket være dugnadsinnsats fra flere medlemmer har vi nå en komplett urban terrengsamling for 40k! Terrenget er tilgjengelig for alle og står i terrenghyllen. Husk å behandle det pent og sette det tilbake etter bruk.",
+            "author": "Terrenggruppa"
+        },
+        {
+            "id": 3,
+            "title": "Vinter Clash 2026 - Påmelding åpen",
+            "date": "2025-12-01",
+            "content": "Påmeldingen til Vinter Clash 2026 er nå åpen! Årets første store 40k-turnering arrangeres 15-16. februar. Meld deg på via Discord. Begrenset antall plasser!",
+            "author": "Turneringskomiteen"
+        },
+        {
+            "id": 4,
+            "title": "Nye åpningstider for juleferien",
+            "date": "2025-12-20",
+            "content": "I juleferien (23. des - 2. jan) er lokalet åpent som vanlig, men vær obs på at det kan være mindre aktivitet. God jul til alle medlemmer!",
+            "author": "Styret"
+        },
+        {
+            "id": 5,
+            "title": "Kill Team liga starter i januar",
+            "date": "2025-11-20",
+            "content": "Vi starter opp en ny Kill Team liga i januar! Ligaen går over 8 uker med fleksibel spilletid. Perfekt for deg som vil komme i gang med Kill Team eller forbedre ferdighetene dine. Påmelding i Discord.",
+            "author": "Ligaansvarlig"
+        }
+    ]
+}

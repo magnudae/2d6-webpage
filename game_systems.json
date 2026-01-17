@@ -1,0 +1,64 @@
+{
+    "systems": [
+        {
+            "id": 1,
+            "name": "Warhammer 40,000",
+            "description": "I den mørke fremtiden finnes det bare krig. Warhammer 40k er det mest populære miniatyrspillet i verden, satt i et dystopisk sci-fi univers. Spill episke slag med armeer fra Imperium, Chaos, Xenos og mer.",
+            "scale": "28mm",
+            "players": "2",
+            "game_time": "2-3 timer",
+            "popularity": "Veldig høy",
+            "beginner_friendly": true
+        },
+        {
+            "id": 2,
+            "name": "Age of Sigmar",
+            "description": "Fantasy-krigføring i de Dødelige Rikene. Age of Sigmar byr på dynamiske slag mellom mektige armeer av guder, demoner, undead og dødelige helter i et høy-fantasy setting.",
+            "scale": "28mm",
+            "players": "2",
+            "game_time": "2-3 timer",
+            "popularity": "Høy",
+            "beginner_friendly": true
+        },
+        {
+            "id": 3,
+            "name": "Kill Team",
+            "description": "Taktisk skirmish-spill i 40k-universet. Mindre armeer, raskere spill, og fokus på individuelle operatives. Perfekt for nybegynnere eller de som vil ha intense, taktiske kamper.",
+            "scale": "28mm",
+            "players": "2",
+            "game_time": "45-90 min",
+            "popularity": "Høy",
+            "beginner_friendly": true
+        },
+        {
+            "id": 4,
+            "name": "Warcry",
+            "description": "Rask og brutal skirmish i Age of Sigmar-universet. Warcry fokuserer på warbands som kjemper i de farlige Åttemarks-ødemarkene. Enkle regler og raske spill.",
+            "scale": "28mm",
+            "players": "2",
+            "game_time": "30-60 min",
+            "popularity": "Medium",
+            "beginner_friendly": true
+        },
+        {
+            "id": 5,
+            "name": "Necromunda",
+            "description": "Gang-krigføring i 40k-universets underbyer. Bygg og utvikle gjengen din gjennom kampanjer i de farlige tunnelene under hive-byene. Sterkt narrativt fokus.",
+            "scale": "28mm",
+            "players": "2",
+            "game_time": "1-2 timer",
+            "popularity": "Medium",
+            "beginner_friendly": false
+        },
+        {
+            "id": 6,
+            "name": "Horus Heresy",
+            "description": "Gå tilbake til 30k og borgerkrigen som formet Imperiet. Store armeer av Space Marines i episke slag. For de som elsker marine-mot-marine action og dyp lore.",
+            "scale": "28mm",
+            "players": "2",
+            "game_time": "3-5 timer",
+            "popularity": "Medium",
+            "beginner_friendly": false
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "tournaments": [
+        {
+            "id": 1,
+            "name": "Vinter Clash 2026",
+            "date_from": "2026-02-15",
+            "date_to": "2026-02-16",
+            "winner": "TBA",
+            "information": "Vinter Clash er tilbake! 2000 points Warhammer 40k turnering med matched play regler. Tre runder på lørdag og to runder på søndag. Premier til topp 3 og beste malt armé.",
+            "place": "2d6 Klubblokalet",
+            "address": "Storgata 32, 0184 Oslo"
+        },
+        {
+            "id": 2,
+            "name": "Age of Sigmar Månedsturnering",
+            "date_from": "2026-03-08",
+            "date_to": "2026-03-08",
+            "winner": "TBA",
+            "information": "Månedlig Age of Sigmar turnering. 2000 points, tre runder. Perfekt for både nybegynnere og erfarne spillere. Påmelding via Discord.",
+            "place": "2d6 Klubblokalet",
+            "address": "Storgata 32, 0184 Oslo"
+        },
+        {
+            "id": 3,
+            "name": "Oslo Grand Tournament",
+            "date_from": "2026-04-25",
+            "date_to": "2026-04-27",
+            "winner": "TBA",
+            "information": "Årets største turnering! Tre dager med intens Warhammer 40k action. 2000 points, seks runder totalt. Begrenset til 64 spillere. Påmelding åpner 1. mars.",
+            "place": "Sentrum Scene",
+            "address": "Arbeidersamfunnets plass 1, 0181 Oslo"
+        },
+        {
+            "id": 4,
+            "name": "Sommer Skirmish",
+            "date_from": "2026-06-14",
+            "date_to": "2026-06-14",
+            "winner": "TBA",
+            "information": "Avslappet sommerturnering med Kill Team! 4 runder, åpent for alle nivåer. Gratis deltakelse for 2d6 medlemmer.",
+            "place": "2d6 Klubblokalet",
+            "address": "Storgata 32, 0184 Oslo"
+        },
+        {
+            "id": 5,
+            "name": "Høst GT 2025",
+            "date_from": "2025-10-18",
+            "date_to": "2025-10-19",
+            "winner": "Magnus Eriksen",
+            "runner_up": "Lars Hansen",
+            "participants": 32,
+            "information": "Warhammer 40k Grand Tournament med 32 deltakere. Fem runder over to dager.",
+            "place": "2d6 Klubblokalet",
+            "address": "Storgata 32, 0184 Oslo"
+        },
+        {
+            "id": 6,
+            "name": "Summer Slam 2025",
+            "date_from": "2025-07-12",
+            "date_to": "2025-07-12",
+            "winner": "Erik Johansen",
+            "runner_up": "Kristian Berg",
+            "participants": 24,
+            "information": "Age of Sigmar sommerturnering. Tre runder, casual stemning.",
+            "place": "2d6 Klubblokalet",
+            "address": "Storgata 32, 0184 Oslo"
+        },
+        {
+            "id": 7,
+            "name": "Kill Team Liga Finale 2025",
+            "date_from": "2025-05-24",
+            "date_to": "2025-05-24",
+            "winner": "Anders Nilsen",
+            "runner_up": "Thomas Olsen",
+            "participants": 16,
+            "information": "Avsluttende turnering for vårens Kill Team liga.",
+            "place": "2d6 Klubblokalet",
+            "address": "Storgata 32, 0184 Oslo"
+        },
+        {
+            "id": 8,
+            "name": "Vinter Clash 2025",
+            "date_from": "2025-02-08",
+            "date_to": "2025-02-09",
+            "winner": "Henrik Strand",
+            "runner_up": "Magnus Eriksen",
+            "participants": 40,
+            "information": "Årets første store 40k turnering med rekordmange deltakere!",
+            "place": "2d6 Klubblokalet",
+            "address": "Storgata 32, 0184 Oslo"
+        }
+    ]
+}

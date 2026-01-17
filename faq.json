@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Hvordan blir jeg medlem av 2d6?",
+            "answer": "Ta kontakt med oss via Discord eller Facebook, kom innom som gjest for å se lokalet, og betal deretter månedlig medlemsavgift. Du får da kodebrikke og nøkkel til lokalet.",
+            "category": "Medlemskap"
+        },
+        {
+            "id": 2,
+            "question": "Hva koster det å være medlem?",
+            "answer": "Medlemskap koster 300 kr/måned, eller 330 kr/måned med egen hylle i modellskap. I tillegg kommer 30 kr innmeldingsavgift. Dette gir deg 24/7 tilgang til lokalet og alle medlemsfordeler.",
+            "category": "Medlemskap"
+        },
+        {
+            "id": 3,
+            "question": "Kan jeg prøve klubben før jeg melder meg inn?",
+            "answer": "Ja! Du kan komme som gjest opptil 3 ganger for å se om klubben passer for deg. Kontakt oss for å avtale et besøk.",
+            "category": "Medlemskap"
+        },
+        {
+            "id": 4,
+            "question": "Hvor ligger klubblokalet?",
+            "answer": "Klubblokalet ligger i Storgata 32, 4. etasje, over Gunerius kjøpesenter i Oslo sentrum. Lett tilgjengelig med kollektivtransport.",
+            "category": "Lokalet"
+        },
+        {
+            "id": 5,
+            "question": "Når er lokalet åpent?",
+            "answer": "Lokalet er tilgjengelig 24/7 for medlemmer. Du får personlig kodebrikke og nøkkel ved innmelding.",
+            "category": "Lokalet"
+        },
+        {
+            "id": 6,
+            "question": "Kan jeg ta med gjester?",
+            "answer": "Ja, som medlem kan du invitere gjestespillere. Gjestespilling er ment for å vise fram lokalet til potensielle nye medlemmer eller besøkende utenbys fra. Se fullstendige regler på Discord.",
+            "category": "Lokalet"
+        },
+        {
+            "id": 7,
+            "question": "Hvilke spill spilles i 2d6?",
+            "answer": "Vi fokuserer primært på miniatyrspill som Warhammer 40,000, Age of Sigmar, Kill Team, Warcry, Necromunda og Horus Heresy. Men vi er åpne for alle typer miniatyrspill!",
+            "category": "Spill"
+        },
+        {
+            "id": 8,
+            "question": "Må jeg ha egne miniatyrer for å spille?",
+            "answer": "Ideelt sett ja, men mange medlemmer er villige til å låne ut armeer til nye spillere. Ta kontakt på Discord for å finne noen å spille med!",
+            "category": "Spill"
+        },
+        {
+            "id": 9,
+            "question": "Arrangeres det turneringer?",
+            "answer": "Ja! Vi arrangerer jevnlig turneringer i ulike spillsystemer. Følg med på turneringssiden og Discord for informasjon om kommende arrangementer.",
+            "category": "Aktiviteter"
+        },
+        {
+            "id": 10,
+            "question": "Er det hobbykvelder eller maleverksted?",
+            "answer": "Lokalet kan brukes til hobby når som helst. Vi har også uformelle hobbykvelder der medlemmer samles for å male og bygge. Sjekk Discord for planlagte aktiviteter.",
+            "category": "Aktiviteter"
+        }
+    ]
+}

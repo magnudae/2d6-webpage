@@ -1,0 +1,70 @@
+{
+    "sections": [
+        {
+            "id": 1,
+            "title": "Generelle regler",
+            "rules": [
+                "Vis respekt for andre medlemmer og deres eiendeler",
+                "Rydd opp etter deg - legg tilbake terreng, terninger og utstyr der du fant det",
+                "Ingen røyking eller bruk av rusmidler i lokalet",
+                "Hold støynivået på et akseptabelt nivå, spesielt sent på kvelden",
+                "Rapporter skader eller problemer til styret umiddelbart"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Tilgang og sikkerhet",
+            "rules": [
+                "Kodebrikke og nøkkel er personlig og skal ikke lånes ut",
+                "Sørg for at døren er låst når du forlater lokalet",
+                "Ikke slipp inn ukjente personer - alle gjester må følges av et medlem",
+                "Ved tap av nøkkel eller kodebrikke, kontakt styret umiddelbart",
+                "Siste person ut har ansvar for å slukke lys og sjekke vinduer"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Gjestespilling",
+            "rules": [
+                "Gjester må alltid følges av et aktivt medlem",
+                "Samme gjest kan besøke lokalet maksimalt 3 ganger før medlemskap kreves",
+                "Medlemmet er ansvarlig for sin gjests oppførsel",
+                "Gjester har ikke tilgang til medlemsskap i skap",
+                "Informer gjester om klubbens regler ved ankomst"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Spillebord og utstyr",
+            "rules": [
+                "Reserver bord via Discord hvis du planlegger lengre spilløkter",
+                "Ikke monopoliser bord unødvendig - vær fleksibel ved høy pågang",
+                "Behandle terreng og utstyr med forsiktighet",
+                "Personlige modeller oppbevares i din tildelte hylle",
+                "Ikke bruk andres modeller uten tillatelse"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Mat og drikke",
+            "rules": [
+                "Kaffe er gratis - vær grei og lag ny kanne hvis du tar den siste",
+                "Brus og snacks i kjøleskapet betales via Vipps (se oppslag)",
+                "Rydd opp søppel og rester etter deg",
+                "Ikke sett mat eller drikke direkte på spillebord",
+                "Alkohol er kun tillatt ved spesielle arrangementer godkjent av styret"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Discord og kommunikasjon",
+            "rules": [
+                "Skriv i Discord når du planlegger å bruke lokalet",
+                "Hold en hyggelig tone i alle kanaler",
+                "Bruk riktig kanal for ulike temaer",
+                "Viktige beskjeder fra styret skal leses og respekteres",
+                "Spørsmål og problemer kan tas opp i relevante kanaler eller direkte med styret"
+            ]
+        }
+    ]
+}

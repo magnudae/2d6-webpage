@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalender - 2d6.no</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1><a href="index.html">2d6.no</a></h1>
+            <input type="checkbox" id="mobile-menu-toggle">
+            <label for="mobile-menu-toggle" class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </label>
+            <nav>
+                <div class="nav-dropdown">
+                    <a href="#">Klubben</a>
+                    <div class="nav-dropdown-content">
+                        <a href="index.html#about">Om oss</a>
+                        <a href="index.html#gallery">Galleri</a>
+                        <a href="location.html">Lokalet</a>
+                        <a href="membership.html">Bli medlem</a>
+                    </div>
+                </div>
+                <div class="nav-dropdown">
+                    <a href="#">Aktiviteter</a>
+                    <div class="nav-dropdown-content">
+                        <a href="tournaments.html">Turneringer</a>
+                        <a href="calendar.html">Kalender</a>
+                        <a href="games.html">Spillsystemer</a>
+                        <a href="hobby.html">Hobby</a>
+                        <a href="news.html">Nyheter</a>
+                    </div>
+                </div>
+                <div class="nav-dropdown">
+                    <a href="#">Info</a>
+                    <div class="nav-dropdown-content">
+                        <a href="faq.html">FAQ</a>
+                        <a href="rules.html">Regler</a>
+                    </div>
+                </div>
+                <a href="https://discord.gg/mHRg3E7ntw" class="discord-link">Discord</a>
+                <a href="https://www.facebook.com/spillforeningen2d6/" class="facebook-link">Facebook</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="calendar-hero">
+            <h2>Kalender</h2>
+            <p class="tagline">Kommende arrangementer og aktiviteter</p>
+        </section>
+
+        <section id="calendar-filters">
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">Alle</button>
+                <button class="filter-btn" data-filter="tournament">Turneringer</button>
+                <button class="filter-btn" data-filter="gamenight">Spillkvelder</button>
+                <button class="filter-btn" data-filter="hobby">Hobby</button>
+                <button class="filter-btn" data-filter="league">Ligaer</button>
+                <button class="filter-btn" data-filter="social">Sosialt</button>
+            </div>
+        </section>
+
+        <section id="calendar-list">
+            <div class="calendar-loading">
+                <p>Laster arrangementer...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="social-links">
+                <a href="https://www.facebook.com/spillforeningen2d6/">Facebook</a>
+                <a href="https://discord.gg/mHRg3E7ntw">Discord</a>
+                <a href="https://instagram.com/2d6oslo">Instagram</a>
+            </div>
+            <p>&copy; 2026 Spillforeningen 2d6</p>
+        </div>
+    </footer>
+
+    <script src="calendar.js"></script>
+</body>
+</html>

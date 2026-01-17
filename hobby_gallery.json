@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Ultramarines 2000p Army",
+            "artist": "Magnus E.",
+            "date": "2025-12-15",
+            "description": "Komplett 2000 points Ultramarines army med custom basing. Malt over 6 måneder.",
+            "game": "Warhammer 40,000",
+            "image": "images/hobby/placeholder.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Death Guard Kill Team",
+            "artist": "Erik J.",
+            "date": "2025-11-20",
+            "description": "Plague Marines Kill Team med heavy weathering og rust-effekter.",
+            "game": "Kill Team",
+            "image": "images/hobby/placeholder.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Stormcast Eternals",
+            "artist": "Lars H.",
+            "date": "2025-10-05",
+            "description": "Hallowed Knights Stormcast med NMM gold og custom shields.",
+            "game": "Age of Sigmar",
+            "image": "images/hobby/placeholder.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Urban Ruins Terrain",
+            "artist": "Terrenggruppa",
+            "date": "2025-09-15",
+            "description": "Komplett sett med urban ruins terreng for 40k. Tilgjengelig for alle i klubben.",
+            "game": "Terreng",
+            "image": "images/hobby/placeholder.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Necron Dynasty",
+            "artist": "Anders N.",
+            "date": "2025-08-22",
+            "description": "Szarekhan Dynasty Necrons med glow-effekter og weathered metal.",
+            "game": "Warhammer 40,000",
+            "image": "images/hobby/placeholder.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Goliath Gang",
+            "artist": "Thomas O.",
+            "date": "2025-07-10",
+            "description": "House Goliath gang for Necromunda med custom tattoos og scars.",
+            "game": "Necromunda",
+            "image": "images/hobby/placeholder.jpg"
+        }
+    ]
+}

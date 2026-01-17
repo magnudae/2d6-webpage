@@ -1,0 +1,80 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "type": "tournament",
+            "name": "Vinter Clash 2026",
+            "date": "2026-02-15",
+            "date_end": "2026-02-16",
+            "time": "10:00",
+            "description": "Warhammer 40k turnering - 2000 points",
+            "location": "2d6 Klubblokalet"
+        },
+        {
+            "id": 2,
+            "type": "gamenight",
+            "name": "Mandagsspilling",
+            "date": "2026-01-20",
+            "recurring": "weekly",
+            "time": "17:00",
+            "description": "Ukentlig spillkveld - alle systemer velkomne",
+            "location": "2d6 Klubblokalet"
+        },
+        {
+            "id": 3,
+            "type": "gamenight",
+            "name": "Onsdagsspilling",
+            "date": "2026-01-22",
+            "recurring": "weekly",
+            "time": "17:00",
+            "description": "Ukentlig spillkveld - alle systemer velkomne",
+            "location": "2d6 Klubblokalet"
+        },
+        {
+            "id": 4,
+            "type": "hobby",
+            "name": "Hobbykveld",
+            "date": "2026-01-23",
+            "recurring": "weekly",
+            "time": "18:00",
+            "description": "Maling og modellbygging - ta med prosjektene dine!",
+            "location": "2d6 Klubblokalet"
+        },
+        {
+            "id": 5,
+            "type": "league",
+            "name": "Kill Team Liga - Runde 1",
+            "date": "2026-01-27",
+            "date_end": "2026-02-02",
+            "description": "Første runde av vårens Kill Team liga. Spill når det passer.",
+            "location": "2d6 Klubblokalet"
+        },
+        {
+            "id": 6,
+            "type": "tournament",
+            "name": "Age of Sigmar Månedsturnering",
+            "date": "2026-03-08",
+            "time": "10:00",
+            "description": "Månedlig AoS turnering - 2000 points, 3 runder",
+            "location": "2d6 Klubblokalet"
+        },
+        {
+            "id": 7,
+            "type": "social",
+            "name": "Nyttårsfest",
+            "date": "2026-01-25",
+            "time": "19:00",
+            "description": "Sosial sammenkomst for å feire det nye året. Mat og drikke.",
+            "location": "2d6 Klubblokalet"
+        },
+        {
+            "id": 8,
+            "type": "beginner",
+            "name": "Introduksjon til 40k",
+            "date": "2026-02-01",
+            "time": "14:00",
+            "description": "Lær det grunnleggende om Warhammer 40k. Perfekt for nybegynnere!",
+            "location": "2d6 Klubblokalet"
+        }
+    ]
+}
